@@ -1,0 +1,16 @@
+name: SimpleAlerts
+version: ${project.version}
+main: me.cayoten.simplealerts.Simplealerts
+api-version: 1.15
+authors: [ Cayoten ]
+description: A simple broadcast / alert plugin
+commands:
+  alert:
+    description: Sends an alert
+    usage: /alert
+  staffalert:
+    description: Sends a staff alert
+    usage: /staffalert
+  sareload:
+    description: Reloads the config
+    usage: /sareload

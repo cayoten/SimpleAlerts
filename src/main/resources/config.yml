@@ -1,0 +1,14 @@
+# WELCOME TO THE SIMPLEALERTS CONFIG
+#For the prefixes, you must have a space at the end
+#Color codes are supported! (Using &c, &b, etc)
+
+# The plugin's prefix
+pluginprefix: '&8[&6SA&8] '
+# The prefix for global alerts
+alertprefix: '&8[&cServer Alert&8] '
+# The color code for a global alert's message content
+alertmsgcolorcode: '&a'
+# The prefix for staff alerts
+staffalertprefix: '&8[&6Staff Alert&8] '
+# The color code for a staff alert's message content
+staffalertmsgcolorcode: '&b'
